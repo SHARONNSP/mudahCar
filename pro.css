@@ -1,0 +1,47 @@
+.jumbotron{
+	background:url(car1.jpg); 
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 900px;
+	padding-left: 38%;
+	padding-top: 100px;
+}
+
+#advantages{
+	text-align: center;
+	font-size: 1.2em;
+}
+
+h3{
+	text-align: center;
+}
+
+h4{
+	color: purple;
+}
+
+.car{
+	margin-left: 20%;
+}
+
+#myvi{
+	width: 250px;
+	margin-left: 20%;
+}
+
+#bezza{
+	width: 200px;
+	margin-left: 20%;
+}
+
+#serina{
+	width: 200px;
+	margin-left: 20%;
+}
+
+#van{
+	width: 250px;
+	margin-left: 20%;
+}
+
